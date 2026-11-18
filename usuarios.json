@@ -1,0 +1,12 @@
+{
+    "Gerardo": {
+        "nip": "3333",
+        "saldo": 0,
+        "bloqueado": false
+    },
+    "Jesus": {
+        "nip": "2222",
+        "saldo": 0,
+        "bloqueado": false
+    }
+}
